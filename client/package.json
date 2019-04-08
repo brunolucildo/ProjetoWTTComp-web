@@ -2,7 +2,6 @@
   "name": "wtt-project",
   "version": "0.0.0",
   "scripts": {
-    "ng": "ng",
     "start": "node server",
     "test": "ng test",
     "lint": "ng lint",
