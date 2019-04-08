@@ -1,27 +1,5 @@
-# WttProject
+Projeto 90% do processo seletivo WTT
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+Minha entrega final referente ao projeto do processo Seletivo WTT Consegui configurar o Back-End com o Node-Js e o MySQL que eu já reuno um bom conhecimento, com ajuda do sequelize e express. o Front-end, trabalhei com Angular (com um pouco de dificuldade de prática) e para a lib de CSS eu trabalhei com o Materialize (tenho pleno conhecimento, pois é o framewoek que uso no meu atual trabalho).
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Não consegui finalizar a integração do back-end com o front-end, não tive tempo hábil (e um pouco de conhecimento). Porém espero que seja o suficiente para ganhar uma chance, mas caso contrário, não tem problema, adiquiri bastante conhecimento realizando essa tarefa e agradeço a oportunidade de mostrar meu trabalho, a WTT ganhou uma boa admiração minha.
